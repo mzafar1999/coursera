@@ -1,0 +1,55 @@
+.row-header{
+    margin: 0px;
+    padding: 0px;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: #87fccb;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+
+}
+
+.jumbotron{
+    color: aliceblue;
+    background: rgb(45, 209, 250);
+    padding: 50px;
+    border: none;
+    border-radius: 0px 0px 50px 50px;
+}
+
+.address {
+    font-size: 80%;
+    margin:0px;
+    color: black;
+}
+
+body {
+    padding: 50px 0px 0px 0px;
+}
+
+.navbar-dark {
+    border: none;
+    border-radius: 40px 40px 0px 0px;
+    background-color: darksalmon;
+}
+
+.breadcrumb {
+    background-color: darksalmon;
+    border-radius: 20px;
+    color: white;
+}
+.breadcrumb-item a{
+    color: white;
+}
+
+.breadcrumb-item.active{
+    color: black;
+}
